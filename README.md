@@ -33,7 +33,7 @@ State management using Context API.
 
 ## Author:
 
-- **Gulshan Songara** - **[Portfolio Website](https://gulshansongara.netlify.app)**, **[Linkedin](https://www.linkedin.com/in/gulshan-songara/)**
+- **Ojong Clinton** - **[Portfolio Website](https://ojongclinton.netlify.app)**, **[Linkedin](https://www.linkedin.com/in/ojong-clinton/)**
 
 <br/>
 
